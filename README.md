@@ -60,9 +60,9 @@ I started out programming in Visual Basic back in the day.  Eventually ended up 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roland-valdez)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roland-valdez&show_icons=true&locale=en&layout=compact" alt="roland-valdez" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roland-valdez&show_icons=true&locale=en" alt="roland-valdez" /></p>
  -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roland-valdez&show_icons=true&locale=en" alt="roland-valdez" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roland-valdez&" alt="roland-valdez" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roland-valdez&label=Profile%20views&color=0e75b6&style=flat" alt="roland-valdez" /> </p>
 
