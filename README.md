@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### I'm a developer currently working on learning the nuances of Java and Web Development.
 ![I'm a developer currently working on learning the nuances of Java and Web Development.](https://images.pexels.com/photos/705164/computer-laptop-work-place-camera-705164.jpeg?cs=srgb&dl=pexels-skitterphoto-705164.jpg&fm=jpg)
 
-Started out programming in Visual Basic back in the day.  Ended up learning C++ and eventually moving on to other things like assembly language.  Made a foray back into programming by starting to pickup C# and from there committed to working on a web development path.
+I started out programming in Visual Basic back in the day.  Eventually ended up learning C++ other things like assembly language before my career took me in a different path.  I decided to make a foray back into programming by starting learning C# and from there made the commitment to working on a web development path.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,6 +40,7 @@ Started out programming in Visual Basic back in the day.  Ended up learning C++ 
 - 🔭 I’m currently working on creating a portofolio 
 - 🌱 I’m currently learning MVC design pattern 
 - 👯 I’m looking to collaborate on open source projects 
+- ⚡ Fun fact: competed in my first codeathon and took first place
 - 📫 How to reach me: valdez.roland.23@gmail.com 
 
 <!-- 
