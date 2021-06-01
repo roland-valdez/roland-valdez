@@ -40,7 +40,7 @@ I started out programming in Visual Basic back in the day.  Eventually ended up 
 - 🔭 I’m currently working on creating a portofolio 
 - 🌱 I’m currently learning MVC design pattern 
 - 👯 I’m looking to collaborate on open source projects 
-- ⚡ Fun fact: competed in my first codeathon and took first place
+- ⚡ Fun fact: I've been told that I am funny
 - 📫 How to reach me: valdez.roland.23@gmail.com 
 
 <!-- 
