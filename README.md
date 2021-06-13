@@ -44,26 +44,20 @@ I started out programming in Visual Basic back in the day.  Eventually ended up 
 - ⚡ Fun fact: I've been told that I am funny
 - 📫 How to reach me: valdez.roland.23@gmail.com 
 
-<!-- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roland-valdez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roland-valdez?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7zeQ5GhQTfKP5De%2BogCOIg%3D%3D/)  
- -->
+
 <h3 align="left">Connect with me:</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roland-valdez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roland-valdez?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7zeQ5GhQTfKP5De%2BogCOIg%3D%3D/)  
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roland-valdez)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roland-valdez&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roland-valdez&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roland-valdez&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roland-valdez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roland-valdez)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roland-valdez&show_icons=true&locale=en&layout=compact" alt="roland-valdez" /></p>
- -->
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roland-valdez&show_icons=true&locale=en" alt="roland-valdez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roland-valdez&" alt="roland-valdez" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roland-valdez&label=Profile%20views&color=0e75b6&style=flat" alt="roland-valdez" /> </p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roland-valdez&" alt="roland-valdez" /></p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=roland-valdez&label=Profile%20views&color=0e75b6&style=flat" alt="roland-valdez" /> </p> -->
 
