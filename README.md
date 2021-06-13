@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm Roland Valdez
 #### I'm a developer currently working on learning the nuances of Java and Web Development.
 
- <img src="/pexels-lukas-resized.jpeg" alt="cover"/>
+ <img src="/pexels-lukas-resized2.jpeg" alt="cover"/>
 
 I started out programming in Visual Basic back in the day.  Eventually ended up learning C++ and other things like assembly language before my career took me in a different path.  I decided to make a foray back into programming by starting to learn C# and from there made the commitment to working on a web development path.
 
