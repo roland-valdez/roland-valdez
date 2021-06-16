@@ -39,7 +39,7 @@ I started out programming in Visual Basic back in the day.  Eventually ended up 
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></p>
 
 - 🔭 I’m currently working on creating a portofolio 
-- 🌱 I’m currently learning MVC design pattern 
+- 🌱 I’m currently learning MVC design pattern and Spring Boot
 - 👯 I’m looking to collaborate on open source projects 
 - ⚡ Fun fact: I've been told that I am funny
 - 📫 How to reach me: valdez.roland.23@gmail.com 
