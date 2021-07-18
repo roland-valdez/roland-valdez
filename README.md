@@ -48,8 +48,8 @@ I started out programming in Visual Basic back in the day.  Eventually ended up 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roland-valdez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roland-valdez)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roland-valdez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roland-valdez&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=roland-valdez&theme=material-palenight&height=100px)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roland-valdez)](https://github.com/anuraghazra/github-readme-stats) -->
 
