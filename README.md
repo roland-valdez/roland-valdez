@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Roland Valdez
 #### DevOps Engineer | Cloud Infrastructure | CI/CD | MLOps | AWS & Azure
 
-<img src="/pexels-lukas-resized2.jpeg" alt="cover"/>
+<img src="/pexels-jeric-turga-1470183193-28534969.jpg" alt="cover"/>
 
 I'm a DevOps Engineer with experience designing, automating, and supporting AWS-based infrastructure for enterprise, customer-facing, multi-tenant SaaS applications. I specialize in Infrastructure as Code using AWS CDK and CloudFormation, Python automation, and CI/CD pipeline development within Azure DevOps. I've led cloud migration initiatives from on-premise into AWS — including containerized workloads on ECS and EKS — and built GenAI and MLOps infrastructure using AWS Bedrock (Anthropic Claude models), all while partnering across teams to deliver reliable, secure, and scalable cloud solutions.
 
