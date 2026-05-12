@@ -62,6 +62,3 @@ I'm a DevOps Engineer with experience designing, automating, and supporting AWS-
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roland-valdez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roland-valdez&show_icons=true&locale=en" alt="roland-valdez" /></p>
