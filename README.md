@@ -18,13 +18,29 @@ I'm a DevOps Engineer with experience designing, automating, and supporting AWS-
 
 ---
 
-<h3 align="left">🚀 Languages and Tools:</h3>
-<p align="left"><a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp;<a href="https://azure.microsoft.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>&nbsp;<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>&nbsp;<a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>&nbsp;<a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/></a>&nbsp;<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></p>
+**🚀 Languages and Tools:**
 
-<h3 align="left">🧰 Other Technologies:</h3>
-<p align="left">
-  AWS Bedrock (Anthropic Claude), AWS Glue, Step Functions, EKS, ECS, API Gateway, CloudFront, Lambda, RDS, DynamoDB, Route 53, SQS, SNS, CloudWatch, IAM, WAF, SonarQube, Mend, Bash, JavaScript, TypeScript, Java, .NET/C#, Microsoft IIS, and more.
-</p>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**🧰 Cloud & Infrastructure:**
+
+![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS%20CDK-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Terraform](https://img.shields.io/badge/SonarQube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
